@@ -1,0 +1,20 @@
+﻿body {
+    background-color: rgb(204, 232, 232);
+    color: rgb(0, 38, 38);
+}
+h3 {
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(0, 38, 38);
+}
+.curriculo {
+  
+}
+    .curriculo img {
+        display: block;
+        margin: 0 auto 20px auto;
+        width: 200px;
+        border-radius: 100%;
+    }
+
+
