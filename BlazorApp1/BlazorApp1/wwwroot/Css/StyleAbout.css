@@ -1,1 +1,11 @@
-﻿
+﻿body {
+    background-color: rgb(204, 232, 232);
+    color: rgb(0, 38, 38);
+}
+header h3 {
+    color: rgb(228, 247, 247);
+    margin: 0;
+    padding: 20px;
+    width: 100%;
+    background-color: rgb(218, 245, 245);
+}
